@@ -1,0 +1,6 @@
+C:\Users\ant_daddy\OneDrive\Рабочий стол\KONSTRUIROVANIE\Джугели\CashDesk\obj\Debug\CashDesk.csproj.AssemblyReference.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\KONSTRUIROVANIE\Джугели\CashDesk\obj\Debug\CashDesk.csproj.CoreCompileInputs.cache
+C:\Users\ant_daddy\OneDrive\Рабочий стол\KONSTRUIROVANIE\Джугели\CashDesk\bin\Debug\CashDesk.exe
+C:\Users\ant_daddy\OneDrive\Рабочий стол\KONSTRUIROVANIE\Джугели\CashDesk\bin\Debug\CashDesk.pdb
+C:\Users\ant_daddy\OneDrive\Рабочий стол\KONSTRUIROVANIE\Джугели\CashDesk\obj\Debug\CashDesk.exe
+C:\Users\ant_daddy\OneDrive\Рабочий стол\KONSTRUIROVANIE\Джугели\CashDesk\obj\Debug\CashDesk.pdb
